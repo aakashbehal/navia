@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "question": "what is the capital of India?",
+            "choices": ["Delhi", "Mumbai", "Punjab", "Haryana"],
+            "correct": "Delhi"
+        },
+        {
+            "question": "what is the capital of India 3?",
+            "choices": ["Delhi", "Mumbai", "Punjab", "Haryana"],
+            "correct": "Delhi"
+        },
+        {
+            "question": "what is the capital of India 2?",
+            "choices": ["Delhi", "Mumbai", "Punjab", "Haryana"],
+            "correct": "Delhi"
+        },
+        {
+            "question": "what is the capital of India 4?",
+            "choices": ["Delhi", "Mumbai", "Punjab", "Haryana"],
+            "correct": "Delhi"
+        }
+        
+    ]
+}
